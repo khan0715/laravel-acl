@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-[ROME](https://itsolutionstuff.com/post/laravel-56-user-roles-and-permissions-acl-using-spatie-tutorialexample.html) - Code 
+[ACL](https://itsolutionstuff.com/post/laravel-56-user-roles-and-permissions-acl-using-spatie-tutorialexample.html) - Code 
 
 
 ### Installing
